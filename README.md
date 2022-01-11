@@ -1,2 +1,2 @@
 # practice
-Just some practice exercises to keep me alert :)
+Just some practice exercises to keep the brain alive :)
